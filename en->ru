@@ -1,0 +1,327 @@
+'pt' =>array(
+      'root_link' => '<span class="mini">Разработка конструктора <a class="mini" href="https://privetmaket.ru">Привет макет</a></span>',
+      'main_currency' => '₽',
+      'meta_main_title' => 'Онлайн-конструктор мебели на заказ. Стеллажи, шкафы, комоды Привет Макет',
+      'meta_main_title_seo' => 'Онлайн-конструктор мебели по индивидуальным размерам на заказ. Стеллажи, шкафы, комоды Привет Макет',
+      'meta_main_description' => 'Онлайн-конструктор мебели по индивидуальным размерам на заказ Привет Макет. Стеллажи, шкафы, комоды и другая мебель без замерщика, создай проект на нашем сайте',
+
+
+      'main_page_header' => '<span class="utp-header__first-word">Онлайн-конструктор</span> <span class="utp-header__second-word">и производство мебели</span>  на заказ',
+      'main_page_subheader' => 'Создайте мебель по вашим размерам сами вместе с нами!',
+      'main_page_to_constructor' => 'Создать мебель',
+
+      'simple_block_title' => 'всё<span>просто</span>',
+      'simple_block_1_name' => 'Измерьте',
+      'simple_block_2_name' => 'Спроектируйте',
+      'simple_block_3_name' => 'Оплатите',
+      'simple_block_4_name' => 'Ожидайте',
+      'simple_block_5_name' => 'Соберите',
+
+      'calculator_names_tobasket' => 'В корзину',
+      'calculator_names_order' => 'Заказать',
+      'calculator_names_oneclick' => 'в 1 клик',
+      'calculator_names_sizes' => 'Габариты',
+      'calculator_names_sizes_description_link' => 'Советы по замерам',
+
+
+      'calculator_names_width' => 'Ширина',
+      'calculator_names_height' => 'Высота',
+      'calculator_names_depth' => 'Глубина',
+      'calculator_names_cells' => 'Ячейки',
+
+      'calculator_names_cell_sizes' => 'Размер ячейки',
+      'calculator_names_form_cell_size' => 'размер',
+      'calculator_names_form_mm' => 'мм',
+      'calculator_names_base_roof_sizes' => 'Основание и парапет',
+      'calculator_names_option_base' => 'Высота основания',
+      'calculator_names_option_roof' => 'Высота парапета',
+
+      'calculator_names_style' => 'Стиль',
+      'calculator_names_options_block' => 'Двери и ящики',
+      'calculator_names_mode' => 'Размеры',
+      'calculator_names_mode_custom' => 'Без ограничений',
+      'calculator_names_mode_auto' => 'Автоподстановка',
+
+      'calculator_names_random' => 'Случайный вариант',
+      'calculator_names_more_option' => '+ расширенные настройки',
+      'calculator_names_onlysave' => 'просто сохранить',
+
+
+
+
+
+      'calculator_doors_material' => 'Материал дверей',
+      'calculator_knobs_type' => 'Тип ручек',
+      'calculator_doors_color' => 'Цвет дверей',
+      'calculator_doors_form' => 'Фрезеровка дверей',
+
+      'calculator_names_material_cupboard' => 'Корпус',
+      'calculator_names_back' => 'Задняя стенка',
+      'calculator_names_back_description_short' => 'Для того чтобы добавить
+                        жёсткости конструкции и шкаф
+                        не упал на бок, мы рекомендуем
+                        делать заднюю стенку.',
+
+      'calculator_names_base_cupboard' => 'Основание',
+      'calculator_names_plinth' => 'Высота',
+
+      'calculator_names_roof_cupboard' => 'Верхняя часть',
+      'calculator_names_roof_opt_height' => 'Высота',
+
+      'calculator_names_side_cupboard' => 'Боковые детали',
+
+      'calculator_names_options' => 'Параметры ячеек',
+      'calculator_names_options_description_short' => 'Вы можете рисовать дверки, полки, ящики и  другие опции из разных материалов прямо на изображении шкафчика/стеллажа. Для этого нужно выделить необходимые ячейки. Просто нажать и отпустить. ',
+
+
+
+
+      'calculator_options_2' => 'дверки вкладные',
+      'calculator_options_26' => 'дверки вкладные двойные',
+      'calculator_options_3' => 'дверки накладные',
+      'calculator_options_27' => 'дверки накладные двойные',
+      'calculator_options_31' => '1 выдвижной ящик (вкладной)',
+      'calculator_options_32' => '2 выдвижных ящика (вкладных)',
+      'calculator_options_33' => '3 выдвижных ящика (вкладных)',
+      'calculator_options_34' => '4 выдвижных ящика (вкладных)',
+      'calculator_options_35' => '5 выдвижных ящиков (вкладных)',
+      'calculator_options_36' => '6 выдвижных ящиков (вкладных)',
+      'calculator_options_37' => '7 выдвижных ящиков (вкладных)',
+      'calculator_options_38' => '8 выдвижных ящиков (вкладных)',
+      'calculator_options_39' => '9 выдвижных ящиков (вкладных)',
+
+      'calculator_options_331' => '1 выдвижной ящик (накладной)',
+      'calculator_options_332' => '2 выдвижных ящика (накладные)',
+      'calculator_options_333' => '3 выдвижных ящика (накладные)',
+      'calculator_options_334' => '4 выдвижных ящика (накладные)',
+      'calculator_options_335' => '5 выдвижных ящиков (накладные)',
+      'calculator_options_336' => '6 выдвижных ящиков (накладные)',
+      'calculator_options_337' => '7 выдвижных ящиков (накладные)',
+      'calculator_options_338' => '8 выдвижных ящиков (накладные)',
+      'calculator_options_339' => '9 выдвижных ящиков (накладные)',
+
+      'calculator_options_41' => '1 полка',
+      'calculator_options_42' => '2 полки',
+      'calculator_options_43' => '3 полки',
+      'calculator_options_44' => '4 полки',
+      'calculator_options_45' => '5 полок',
+
+      'calculator_options_411' => '1 разделитель',
+      'calculator_options_412' => '2 разделителя',
+      'calculator_options_413' => '3 разделителя',
+      'calculator_options_414' => '4 разделителя',
+      'calculator_options_415' => '5 разделителей',
+      'calculator_options_416' => '6 разделителей',
+      'calculator_options_417' => '7 разделителей',
+
+      'calculator_options_4' => 'дверки вкладные (открывание вверх/вниз)',
+      'calculator_options_25' => 'дверки накладные (открывание вверх/вниз)',
+      'calculator_options_23' => 'дверки сдвижные вкладные',
+
+      'calculator_options_231' => '2 дверки купе',
+      'calculator_options_232' => '3 дверки купе',
+      'calculator_options_235' => '4 дверки купе',
+      'calculator_options_233' => '2 дверки купе (с зеркалом)',
+      'calculator_options_234' => '3 дверки купе (с зеркалом)',
+      'calculator_options_236' => '4 дверки купе (2 зеркала)',
+
+      'calculator_options_7' => 'обувница откидная',
+      'calculator_options_8' => 'обувница откидная (на две ячейки)',
+      'calculator_options_73' => 'обувница откидная (на три ячейки)',
+      'calculator_options_9' => 'штанга для одежды',
+      'calculator_options_51' => 'усилительная планка',
+      'calculator_options_52' => 'усилительная планка (центр)',
+
+
+      'calculator_names_options_material_description_short' => 'Не забудьте выбрать материал',
+      'calculator_names_options_hinge_description_short' => 'Не забудьте выбрать фурнитуру',
+
+      'calculator_names_edge' => 'Кромка для защиты торцов',
+      'calculator_names_edge_tiny_short' => 'Тонкая кромка (дешевле)',
+      'calculator_names_edge_thick_short' => 'Толстая кромка (лучше)',
+      'calculator_names_edge_no_short' => 'Если в качестве каркаса шкафа
+                          выбрана не ДСП, то пропустите
+                          этот пункт',
+
+      'calculator_names_comment' => 'Особые пожелания',
+      'calculator_names_comment_short' => 'Мы можем внести любые изменения в ваш заказ.
+                        Если вы хотите добавить какой-то комментарий
+                        к схеме или задать вопрос, то можете заполнить
+                        это поле в свободной форме.',
+      'calculator_names_comment_placeholder' => 'Ваш комментарий',
+
+
+      'subtype_mode_default' => 'Сброс',
+      'subtype_mode_clear' => 'Очистить',
+      'subtype_mode_random_doors' => '+ двери',
+      'subtype_mode_random_boxes' => '+ ящики',
+      'subtype_mode_random' => 'Случайно',
+
+      'calculator_names_cellpopup_title' => 'Настройки ячейки',
+      'calculator_names_cellpopup_material' => 'материал',
+      'calculator_names_cellpopup_knobs' => 'ручки',
+      'calculator_names_cellpopup_knobs_position' => 'положение ручки',
+      'calculator_names_cellpopup_color' => 'цвет',
+      'calculator_names_cellpopup_form' => 'фрезеровка',
+      'calculator_names_cellpopup_size' => 'размер ячейки',
+      'calculator_names_cellpopup_indent' => 'отступ',
+      'calculator_names_cellpopup_indent_fromtop' => 'сверху',
+      'calculator_names_cellpopup_indent_frombottom' => 'снизу',
+      'calculator_names_cellpopup_indent_auto' => 'авто',
+      'calculator_names_cellpopup_showmenu_button' => 'показывать меню при рисовании',
+
+      'cellpopup_save_button_text' => 'Сохранить',
+      'cellpopup_delete_button_text' => 'Удалить',
+
+
+      'product_subtypes_names_custom' => 'Без ограничение>',
+      'product_subtypes_names_tvstand' => 'ТВ-тумба',
+      'product_subtypes_names_long_shelfs' => 'Длинные полки',
+      'product_subtypes_names_square_shelfs' => 'Квадратные полки',
+      'product_subtypes_names_wardrobe' => 'Гардероб',
+      'product_subtypes_names_coupe' => 'Шкаф-купе',
+      'product_subtypes_names_nightstand' => 'Тумбочка',
+      'product_subtypes_names_commode' => 'Комод',
+      'product_subtypes_names_shoesshelf' => 'Обувница',
+
+      'calculator_names_top_plane_cupboard' => 'Столешница',
+      'calculator_options_caption' => 'не выбрано',
+      'param_top_plane_default' => 'не нужно',
+      'calculator_material_popup_caption' => 'Материалы',
+
+      'calculator_options_group_doors' => 'Двери',
+      'calculator_options_group_boxes' => 'Ящики',
+      'calculator_options_group_shelfs' => 'Полки и разделители',
+      'calculator_options_group_coupe' => 'Двери-купе',
+      'calculator_options_group_shoeshelf' => 'Для обуви',
+      'calculator_options_group_reinforcing' => 'Усилители конструкции',
+
+      'calculator_options_53' => 'задняя стенка',
+
+      'calculator_material_popup_group_main_materials' => 'ЛДСП. Основные цвета из наличия',
+      'calculator_material_popup_group_additionals_materials' => 'ЛДСП. Дополнительные цвета',
+      'calculator_material_popup_group_mdf' => 'МДФ',
+      'calculator_material_popup_group_massiv' => 'Массив дерева',
+      'calculator_material_popup_group_fanera' => 'Фанера',
+      'calculator_material_popup_group_others' => 'Другое',
+
+
+
+      'knob_position_top' => 'сверху',
+      'knob_position_bottom' => 'снизу',
+      'knob_position_left' => 'слева',
+      'knob_position_right' => 'справа',
+      'knob_position_top_left' => 'сверху слева',
+      'knob_position_top_right' => 'сверху справа',
+      'knob_position_bottom_left' => 'снизу слева',
+      'knob_position_bottom_right' => 'снизу справа',
+      'knob_position_top_left_vertical' => 'сверху слева (вертикально)',
+      'knob_position_top_right_vertical' => 'сверху справа (вертикально)',
+      'knob_position_bottom_left_vertical' => 'снизу слева (вертикально)',
+      'knob_position_bottom_right_vertical' => 'снизу справа (вертикально)',
+      'knob_position_center' => 'центр',
+      'knob_position_center_right' => 'центр (петли справа)',
+      'knob_position_center_left' => 'центр (петли слева)',
+
+
+      'calculator_names_form_title' => 'Ваши контакты',
+      'calculator_names_form_subtitle' => 'Мы свяжемся с вами в ближайшее время, чтобы уточнить детали или выслать ссылку на оплату!',
+
+      'calculator_names_form_name' => 'введите имя',
+      'calculator_names_form_phone' => 'введите телефон*',
+      'calculator_names_form_email' => 'введите email*',
+      'calculator_names_form_address' => 'укажите адрес',
+      'calculator_names_form_button' => 'Отправить',
+      'calculator_names_form_save_title' => 'Сохранение проекта',
+      'calculator_names_form_save_text' => 'Спасибо за ожидание. Этот процесс займёт несколько секунд',
+      'calculator_names_form_success_title' => 'Ваш заказ принят',
+      'calculator_names_form_success_text' => 'Наш менеджер скоро свяжется с вами!',
+
+
+      'subtype_mode_door_delete' => 'убрать',
+      'subtype_mode_door_one' => 'одинарные',
+      'subtype_mode_door_double' => 'двойные',
+      'subtype_mode_door_coupe' => 'Купе',
+
+      'subtype_mode_door_boxes' => '+ ящики и двери',
+      'subtype_mode_boxes_glass' => '+ ящики и стекло',
+      'subtype_mode_boxes_min' => 'Большие ящики',
+      'subtype_mode_boxes_max' => 'Маленькие ящики',
+
+
+      'wardrobe_label' => 'Варианты наполнения',
+
+      'JS_calculator_error_many_cells_x' => 'много ячеек для такой ширины',
+      'JS_calculator_error_many_cells_y' => 'много ячеек для такой высоты',
+      'JS_qtip_null' => 'не заполнено',
+
+      'calculator_options_2331' => '2 дверки купе (2 зеркала)',
+      'calculator_options_2341' => '3 дверки купе (2 зеркала)',
+      'calculator_options_2342' => '3 дверки купе (3 зеркала)',
+      'calculator_options_2361' => '4 дверки купе (с зеркалом)',
+      'calculator_options_2362' => '4 дверки купе (3 зеркала)',
+      'calculator_options_2363' => '4 дверки купе (4 зеркала)',
+
+
+      'calculator_options_351' => '1 выдвижных ящиков (утопленный)',
+      'calculator_options_352' => '2 выдвижных ящиков (утопленный)',
+      'calculator_options_353' => '3 выдвижных ящиков (утопленный)',
+      'calculator_options_354' => '4 выдвижных ящиков (утопленный)',
+      'calculator_options_355' => '5 выдвижных ящиков (утопленный)',
+      'calculator_options_356' => '6 выдвижных ящиков (утопленный)',
+      'calculator_options_357' => '7 выдвижных ящиков (утопленный)',
+      'calculator_options_358' => '8 выдвижных ящиков (утопленный)',
+      'calculator_options_359' => '9 выдвижных ящиков (утопленный)',
+
+      'calculator_options_61' => 'объединить ячейки',
+
+      'knob_name_cone' => 'конус',
+      'knob_name_cone_double' => 'два конуса',
+      'knob_name_overhead' => 'накладная белая 150мм (для вкладных фасадов)',
+      'knob_name_push' => 'нажимной механизм',
+      'knob_name_railing' => 'рейлинг',
+      'knob_name_gap' => 'щель',
+
+      'JS_calculator_save' => 'сохранить',
+
+
+      'calculator_names_plinth_cut' => 'Вырез',
+      'calculator_names_doors_hanging' => 'Свес дверей',
+      'calculator_names_room_option' => 'Настройки комнаты',
+      'calculator_names_room_option_text' => 'Эти настройки никак не влияют на стоимость или конструктив мебели',
+      'calculator_names_scene_wall' => 'Стены',
+      'calculator_names_scene_floor' => 'Пол',
+      'calculator_names_scene_floor_offset' => 'Расстояние от пола',
+
+      'back_edges_default' => 'По умолчанию',
+      'calculator_names_edge_back' => 'Если вам нужна другая толщина кромки сзади',
+      'calculator_names_offset_panel' => 'Вылет спереди',
+      'calculator_names_material_panel' => 'Материал',
+      'calculator_names_top_panel' => 'Верхняя',
+      'calculator_names_bottom_panel' => 'Нижняя',
+      'calculator_names_left_panel' => 'Левая',
+      'calculator_names_right_panel' => 'Правая',
+      'calculator_names_panel_material_as_main' => 'Как корпус',
+
+      'calculator_names_offset_panel_back' => 'Вылет сзади',
+      'calculator_names_param_top_border_offset_left' => 'Отступ слева',
+      'calculator_names_param_top_border_offset_right' => 'Отступ справа',
+
+      'calculator_names_param_bottom_border_offset_left' => 'Отступ слева',
+      'calculator_names_param_bottom_border_offset_right' => 'Отступ справа',
+
+      'calculator_names_scene_wall_left_depth' => 'Выступ стены слева',
+      'calculator_names_scene_wall_right_depth' => 'Выступ стены справа',
+      'calculator_names_scene_wall_top_depth' => 'Выступ стены сверху',
+      'calculator_names_scene_wall_top_offset' => 'Отступ в нише сверху',
+
+      'calculator_names_care_top' => 'Шкаф без зазора под потолком',
+      'calculator_names_care_description' => '(добавим в заказ уголки, для крепления верхней детали)',
+
+      'knob_name_none' => 'ручка клиента',
+
+      'calculator_names_options_draw' => 'рисуйте на модели',
+
+      'calculator_options_group_experimetns' => 'Эксперименты',
+
+    ),
